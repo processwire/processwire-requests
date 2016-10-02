@@ -1,16 +1,16 @@
-<!-- Please answer the following questions. -->
+<!-- Please use this template. This will help maintainers and the community better understand your feature request, comprehend the usefulness of it for the community, and get to a solution more quickly and efficiently. Thank you. -->
 
-### Briefly describe the enhancement or the feature request.
+### Short description of the enhancement
 
 Short description goes here.
 
-### Optional: What are the steps that explain the enhancement?
+### Optional: Steps that explain the enhancement
 
 1. Step 1
 2. Step 2
 3. Step 3
 
-### What is the current and suggested behavior?
+### Current vs. suggested behavior
 
 Describe current and suggested behavior here.
 
@@ -18,6 +18,6 @@ Describe current and suggested behavior here.
 
 Explanation of why the enhancement would be useful goes here.
 
-### Optional: Do you have screenshots/links that demonstrate the enhancement?
+### Optional: Screenshots/Links that demonstrate the enhancement
 
 Your screenshots/links go here.
